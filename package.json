@@ -1,0 +1,26 @@
+{
+  "name": "invitemanager-zrooter",
+  "version": "0.0.1",
+  "description": "Discord: zRooter#7295",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.2",
+    "discord.js": "^13.1.0",
+    "wio.db": "^4.0.21"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-mvp-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
